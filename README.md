@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Maitan21/Maitan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # YoonSang Cho (Maitan21)
 I’m Yoonsang Cho, working as a developer and a consultant in Republic of Korea.
