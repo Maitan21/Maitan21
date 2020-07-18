@@ -1,4 +1,4 @@
-<p align="center"><img src="./readme.gif" height="347px" width="800px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45276804/87858951-b0ea0880-c96c-11ea-8a5f-51347325f308.gif" height="347px" width="800px"></p>
 
 # YoonSang Cho (Maitan21)
 I’m Yoonsang Cho, working as a developer and a consultant in Republic of Korea.
