@@ -1,4 +1,5 @@
-![readme](./readme.gif)
+<p align="center"><img src="./readme.gif" height="1000px" width="400px"></p>
+
 # YoonSang Cho (Maitan21)
 I’m Yoonsang Cho, working as a developer and a consultant in Republic of Korea.
 
