@@ -17,7 +17,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ## Get in touch
 - Portfolio : https://maitan21.github.io/Portfolio/ <br>
-- Personal site: https://katfukui.com/
+- Personal site: http://emongfactory.tistory.com/
 - Instagram : https://www.instagram.com/j.y.s_94/
 
 <!--
