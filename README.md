@@ -4,7 +4,8 @@
 I’m Yoonsang Cho, working as a developer and a consultant in Republic of Korea.
 
 I have done a lot of experiences in regards to development, building, and customization. I’m willing to pursue various challenges. I confidently face challenges and solve without hesitation.
-I’m always looking for new, exciting experiences.👋💕
+
+I’m always looking for new, exciting experiences.👋 💕
 
 ## My values
 🌟 Expression as authentic self<br>
