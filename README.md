@@ -1,5 +1,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/45276804/87858951-b0ea0880-c96c-11ea-8a5f-51347325f308.gif" height="347px" width="800px"></p>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaitan21)](https://hits.seeyoufarm.com)
 # YoonSang Cho (Maitan21)
 I’m Yoonsang Cho, working as a developer and a consultant in Republic of Korea.
 
