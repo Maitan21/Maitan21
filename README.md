@@ -20,8 +20,14 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 ## Get in touch
 - Portfolio : https://maitan21.github.io/Portfolio/ <br>
 - Personal site: http://emongfactory.tistory.com/
-- Instagram : https://www.instagram.com/j.y.s_94/
+<div align=center>
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Maitan21)](https://github.com/Maitan21) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonsang-cho-244a26166//)](https://www.linkedin.com/in/yoonsang-cho-244a26166/) 
+[![Insta Badge](https://img.shields.io/badge/-Instagram-gray?style=flat-square&logo=Instagram&link=https://www.instagram.com/j.y.s_94/)](https://www.instagram.com/j.y.s_94/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yoonsang.jho)](https://www.facebook.com/yoonsang.jho) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oklfg2002@gmail.com)](mailto:oklfg2002@gmail.com)
+</div>
 <!--
 
 Here are some ideas to get you started:
@@ -38,12 +44,5 @@ Here are some ideas to get you started:
 
 	
 
-<div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Maitan21)](https://github.com/Maitan21) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/)](https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/) 
-[![Insta Badge](https://img.shields.io/badge/-Instagram-gray?style=flat-square&logo=Instagram&link=https://velog.io/@leyuri)](https://velog.io/@leyuri) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yoonsang.jho)](https://www.facebook.com/yoonsang.jho) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oklfg2002@gmail.com)](mailto:oklfg2002@gmail.com)
-</div>
 	
