@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Maitan21)](https://github.com/Maitan21) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/)](https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/) 
-[![Instagram Badge](https://img.shields.io/badge/-InstaGram-%23667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@leyuri)](https://velog.io/@leyuri) 
+[![Insta Badge](https://img.shields.io/badge/-Instagram-d14836?style=flat-square&logo=Bloglovin&link=https://velog.io/@leyuri)](https://velog.io/@leyuri) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yoonsang.jho)](https://www.facebook.com/yoonsang.jho) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oklfg2002@gmail.com)](mailto:oklfg2002@gmail.com)
 </div>
