@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://www.linkedin.com/in/yoonsang-cho-244a26166/)](https://www.linkedin.com/in/yoonsang-cho-244a26166/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoonsang-cho-244a26166/)](https://www.linkedin.com/in/yoonsang-cho-244a26166/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@leyuri)](https://velog.io/@leyuri) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006712710449)](https://www.facebook.com/profile.php?id=100006712710449) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leyuri97@gmail.com)](mailto:leyuri97@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Maitan21)](https://github.com/Maitan21) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/)](https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/) 
+[![Instagram Badge](https://img.shields.io/badge/-InstaGram-%23667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@leyuri)](https://velog.io/@leyuri) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/yoonsang.jho)](https://www.facebook.com/yoonsang.jho) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oklfg2002@gmail.com)](mailto:oklfg2002@gmail.com)
 </div>
 	
