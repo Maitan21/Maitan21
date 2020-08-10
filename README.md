@@ -37,10 +37,13 @@ Here are some ideas to get you started:
 -->
 
 	
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 
-	
-	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oklfg2002@gmail.com)](mailto:oklfg2002@gmail.com)
-  
+<div align=center>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/leyuri/)](https://github.com/leyuri/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/)](https://www.linkedin.com/in/yuri-lee-a5ba8a1a0/) 
+[![ Badge](https://img.shields.io/badge/-Velog-%23667881?style=flat-square&logo=Bloglovin&link=https://velog.io/@leyuri)](https://velog.io/@leyuri) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100006712710449)](https://www.facebook.com/profile.php?id=100006712710449) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leyuri97@gmail.com)](mailto:leyuri97@gmail.com)
+</div>
 	
