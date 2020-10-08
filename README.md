@@ -10,6 +10,9 @@ I have done a lot of experiences in regards to development, building, and custom
 
 I’m always looking for new, exciting experiences.👋 💕
 
+[![Maitan21's github stats](https://github-readme-stats.vercel.app/api?username=Maitan21&show_icons=true&hide_border=true)](https://github.com/Maitan21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maitan21&layout=compact)](https://github.com/Maitan21)
+
 ## My values
 🌟 Expression as authentic self<br>
 💖 Safety and trust<br>
@@ -32,8 +35,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oklfg2002@gmail.com)](mailto:oklfg2002@gmail.com)
 </div>
 <!--
-[![seareale's github stats](https://github-readme-stats.vercel.app/api?username=Maitan21&show_icons=true&hide_border=true)](https://github.com/Maitan21)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maitan21&layout=compact)](https://github.com/Maitan21)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
