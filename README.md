@@ -3,6 +3,8 @@
 <div align=center>
 <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaitan21"/></a>
 </div>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ko_KR" data-type="horizontal" data-theme="dark" data-vanity="yoonsang-cho"><a class="LI-simple-link" href='https://kr.linkedin.com/in/yoonsang-cho?trk=profile-badge'>YOONSANG CHO</a></div>
 # YoonSang Cho (Maitan21)
 I’m Yoonsang Cho, working as a developer and a consultant in Republic of Korea.
 
