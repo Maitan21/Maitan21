@@ -5,7 +5,7 @@
 </div>
 
 # YoonSang Cho (Maitan21)
-I’m Yoonsang Cho, working as a developer and a consultant in Republic of Korea.
+I’m Yoonsang Cho, working as a developer and a consultant at `DXC.technology`.
 
 I have done a lot of experiences in regards to development, building, and customization. I’m willing to pursue various challenges. I confidently face challenges and solve without hesitation.
 
@@ -16,7 +16,7 @@ I’m always looking for new, exciting experiences.👋 💕
 
 ## My values
 🌟 Expression as authentic self<br>
-💖 Safety and trust<br>
+💖 Multilingual person<br>
 🍏 Beginner's mindset and curiosity<br>
 🙌 Shared understanding and consensus
 🌱 I’m currently learning Cloud (AWS, Azure)
