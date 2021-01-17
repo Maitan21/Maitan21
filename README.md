@@ -5,7 +5,7 @@
 </div>
 
 # YoonSang Cho (Maitan21)
-I’m Yoonsang Cho, working as a `System Engineer` and a `Technology Consultant` at `DXC.technology`.
+I’m Yoonsang Cho, working as a `System Engineer` and a `Technology Consultant` at `DXC.technology` in japan.
 
 I have done a lot of experiences in regards to development, building, and customization. I’m willing to pursue various challenges. I confidently face challenges and solve without hesitation.
 
