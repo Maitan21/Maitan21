@@ -25,8 +25,8 @@ I’m always looking for new, exciting experiences.👋 💕
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 
 ## Get in touch
-- Portfolio : https://maitan21.github.io/Portfolio/ <br>
-- Personal site: http://emongfactory.tistory.com/
+- Portfolio : http://chuettics.com/portfolio/ <br>
+- Personal site: http://chouettics.com/
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Maitan21)](https://github.com/Maitan21) 
